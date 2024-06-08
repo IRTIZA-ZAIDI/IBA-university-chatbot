@@ -1,0 +1,223 @@
+Original Question: What are the eligibility criteria for candidates applying for the BSCS program?
+Document 1 Page Content: BSCS program - ACT
+A Composite Score of 28 (out of 36)
+Score of English / Writing is not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+Applicants to the BSCS Program must have completed their:
+Higher Secondary School Certificate (Pre-Engineering) with a minimum of 60% marks
+OR
+Higher Secondary School Certificate (General Group with Mathematics) with a minimum of 60% marks
+Document 2 Page Content: BSCS program - ACT
+A Composite Score of 28 (out of 36)
+Score of English / Writing is not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+Applicants to the BSCS Program must have completed their:
+Higher Secondary School Certificate (Pre-Engineering) with a minimum of 60% marks
+OR
+Higher Secondary School Certificate (General Group with Mathematics) with a minimum of 60% marks
+Document 3 Page Content: BSCS program - ACT
+A Composite Score of 28 (out of 36)
+Score of English / Writing is not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+Applicants to the BSCS Program must have completed their:
+Higher Secondary School Certificate (Pre-Engineering) with a minimum of 60% marks
+OR
+Higher Secondary School Certificate (General Group with Mathematics) with a minimum of 60% marks
+Document 4 Page Content: BSCS program - ACT
+A Composite Score of 28 (out of 36)
+Score of English / Writing is not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+Applicants to the BSCS Program must have completed their:
+Higher Secondary School Certificate (Pre-Engineering) with a minimum of 60% marks
+OR
+Higher Secondary School Certificate (General Group with Mathematics) with a minimum of 60% marks
+Document 5 Page Content: BSCS program - ACT
+A Composite Score of 28 (out of 36)
+Score of English / Writing is not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+Applicants to the BSCS Program must have completed their:
+Higher Secondary School Certificate (Pre-Engineering) with a minimum of 60% marks
+OR
+Higher Secondary School Certificate (General Group with Mathematics) with a minimum of 60% marks
+
+Original Question: What is the pre-requisite for the Data Structures course?
+Document 1 Page Content: Data Structures is a third-semester course with 4 credit hours, and its prerequisites are Object-Oriented Programming Techniques (CSE142) and Discrete Mathematics (MTS211).
+Linear Algebra is a third-semester course with 3 credit hours, and its prerequisite is Calculus-I (MTS101).
+Numerical Analysis is a third-semester course with 3 credit hours, and its prerequisite is Calculus-II (MTS232).
+General Elective-I is a third-semester course with 3 credit hours, and its prerequisite is nothing.
+Document 2 Page Content: Data Structures is a third-semester course with 4 credit hours, and its prerequisites are Object-Oriented Programming Techniques (CSE142) and Discrete Mathematics (MTS211).
+Linear Algebra is a third-semester course with 3 credit hours, and its prerequisite is Calculus-I (MTS101).
+Numerical Analysis is a third-semester course with 3 credit hours, and its prerequisite is Calculus-II (MTS232).
+General Elective-I is a third-semester course with 3 credit hours, and its prerequisite is nothing.
+Document 3 Page Content: Data Structures is a third-semester course with 4 credit hours, and its prerequisites are Object-Oriented Programming Techniques (CSE142) and Discrete Mathematics (MTS211).
+Linear Algebra is a third-semester course with 3 credit hours, and its prerequisite is Calculus-I (MTS101).
+Numerical Analysis is a third-semester course with 3 credit hours, and its prerequisite is Calculus-II (MTS232).
+General Elective-I is a third-semester course with 3 credit hours, and its prerequisite is nothing.
+Document 4 Page Content: Data Structures is a third-semester course with 4 credit hours, and its prerequisites are Object-Oriented Programming Techniques (CSE142) and Discrete Mathematics (MTS211).
+Linear Algebra is a third-semester course with 3 credit hours, and its prerequisite is Calculus-I (MTS101).
+Numerical Analysis is a third-semester course with 3 credit hours, and its prerequisite is Calculus-II (MTS232).
+General Elective-I is a third-semester course with 3 credit hours, and its prerequisite is nothing.
+Document 5 Page Content: Junior
+Semester 5:
+Software Engineering is a fifth-semester course with 3 credit hours, and its prerequisite is Data Structures (CSE247).
+Operating Systems is a fifth-semester course with 3 credit hours, and its prerequisite is Computer Architecture & Assembly Language (CSE345).
+Database Systems is a fifth-semester course with 4 credit hours, and its prerequisite is Data Structures (CSE247).
+
+Original Question: What is the email address of Sir Sajjad Haider?
+Document 1 Page Content: Dr. Sajjad Haider is a member of IBA Computer Science Faculty.
+Dr. Sajjad Haider is a Professor
+Dr. Sajjad Haider works in the Department of Computer Science
+Dr. Sajjad Haider specializes in Information Technology
+Dr. Sajjad Haider is currently Available
+You can reach Dr. Sajjad Haider at sahaider@iba.edu.pk
+Document 2 Page Content: Dr. Sajjad Haider is a member of IBA Computer Science Faculty.
+Dr. Sajjad Haider is a Professor
+Dr. Sajjad Haider works in the Department of Computer Science
+Dr. Sajjad Haider specializes in Information Technology
+Dr. Sajjad Haider is currently Available
+You can reach Dr. Sajjad Haider at sahaider@iba.edu.pk
+Document 3 Page Content: Dr. Sajjad Haider is a member of IBA Computer Science Faculty.
+Dr. Sajjad Haider is a Professor
+Dr. Sajjad Haider works in the Department of Computer Science
+Dr. Sajjad Haider specializes in Information Technology
+Dr. Sajjad Haider is currently Available
+You can reach Dr. Sajjad Haider at sahaider@iba.edu.pk
+Document 4 Page Content: Dr. Sajjad Haider is a member of IBA Computer Science Faculty.
+Dr. Sajjad Haider is a Professor
+Dr. Sajjad Haider works in the Department of Computer Science
+Dr. Sajjad Haider specializes in Information Technology
+Dr. Sajjad Haider is currently Available
+You can reach Dr. Sajjad Haider at sahaider@iba.edu.pk
+Document 5 Page Content: Here is the list of Dr. Sajjad Haider's research interest: Information Technology
+Here is the list of Dr. Sajjad Haider's projects: List to come
+https://www.iba.edu.pk/faculty-profile.php?ftype=&id=shahidhussain
+Dr. Shahid Hussain
+For further information regarding Dr. Shahid Hussain kindly refer to the following webpage: https://www.iba.edu.pk/faculty-profile.php?ftype=&id=shahidhussain
+Dr. Shahid Hussain is a member of IBA Computer Science Faculty.
+
+Original Question: What is the email address of the IT help desk?
+Document 1 Page Content: requirement, the request would be made to the ICT department.
+Reach out to the following IT help desk team members for your queries and (or) issues related to 
+the PC, laptop, printer, and multimedia:
+Main Campus
+Mr. Faraz Baig
+Email: helpdeskmain@iba.edu.pk and (or) mbaig@iba.edu.pk  
+Ext: 2101, 2120, 2114
+City Campus 
+Mr. Zeeshan Nasir 
+Email: helpdeskcity@iba.edu.pk and (or) znasir@iba.edu.pk 
+Ext: 1105, 1113
+Campus Management System
+Document 2 Page Content: requirement, the request would be made to the ICT department.
+Reach out to the following IT help desk team members for your queries and (or) issues related to 
+the PC, laptop, printer, and multimedia:
+Main Campus
+Mr. Faraz Baig
+Email: helpdeskmain@iba.edu.pk and (or) mbaig@iba.edu.pk  
+Ext: 2101, 2120, 2114
+City Campus 
+Mr. Zeeshan Nasir 
+Email: helpdeskcity@iba.edu.pk and (or) znasir@iba.edu.pk 
+Ext: 1105, 1113
+Campus Management System
+Document 3 Page Content: requirement, the request would be made to the ICT department.
+Reach out to the following IT help desk team members for your queries and (or) issues related to 
+the PC, laptop, printer, and multimedia:
+Main Campus
+Mr. Faraz Baig
+Email: helpdeskmain@iba.edu.pk and (or) mbaig@iba.edu.pk  
+Ext: 2101, 2120, 2114
+City Campus 
+Mr. Zeeshan Nasir 
+Email: helpdeskcity@iba.edu.pk and (or) znasir@iba.edu.pk 
+Ext: 1105, 1113
+Campus Management System
+Document 4 Page Content: requirement, the request would be made to the ICT department.
+Reach out to the following IT help desk team members for your queries and (or) issues related to 
+the PC, laptop, printer, and multimedia:
+Main Campus
+Mr. Faraz Baig
+Email: helpdeskmain@iba.edu.pk and (or) mbaig@iba.edu.pk  
+Ext: 2101, 2120, 2114
+City Campus 
+Mr. Zeeshan Nasir 
+Email: helpdeskcity@iba.edu.pk and (or) znasir@iba.edu.pk 
+Ext: 1105, 1113
+Campus Management System
+Document 5 Page Content: Keep the following email in CC: ERP_helpdesk@iba.edu.pk
+PeopleSoft Student Financials
+Contact information for the PeopleSoft Student Financials team is given below:
+Ms. Mehwish Khatri
+Email: mkhatri@iba.edu.pk 
+Ext: 1115
+Mr. Usman Khurshid
+Ext: 2106
+Email: ukhursheed@iba.edu.pk50
+ 51
+STUDENT HANDBOOK 2023-24 STUDENT HANDBOOK 2023-24Learning Management System (SAKAI-LMS)
+Learning Management System (LMS) enables instructors and students to share knowledge,
+
+Original Question: Is it possible to exempt the IBA aptitude test?
+Document 1 Page Content: Is the IBA aptitude test compulsory for every student seeking admission in IBA?
+A.
+No, it's not, an S.A.T. / GRE / GMAT required scores allows the exemption from the IBA undergraduate / graduate admissions test respectively, however the payment of the admission application processing fee is compulsory along with obtaining the admit card, once the test is cleared the next stage involves group discussion (for MBA regular only) and interview process. Please click here to check the required scores.
+Document 2 Page Content: Is the IBA aptitude test compulsory for every student seeking admission in IBA?
+A.
+No, it's not, an S.A.T. / GRE / GMAT required scores allows the exemption from the IBA undergraduate / graduate admissions test respectively, however the payment of the admission application processing fee is compulsory along with obtaining the admit card, once the test is cleared the next stage involves group discussion (for MBA regular only) and interview process. Please click here to check the required scores.
+Document 3 Page Content: The following are exempted from appearing in the IBA Aptitude Test:
+BSCS program - SAT I
+A score of 670 (out of 800) in Mathematics
+A score of 600 (out of 800) in Evidence-Based Reading and Writing
+Scores of Essay are not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+ BSCS program - ACT
+A Composite Score of 28 (out of 36)
+Document 4 Page Content: The following are exempted from appearing in the IBA Aptitude Test:
+BSCS program - SAT I
+A score of 670 (out of 800) in Mathematics
+A score of 600 (out of 800) in Evidence-Based Reading and Writing
+Scores of Essay are not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+ BSCS program - ACT
+A Composite Score of 28 (out of 36)
+Document 5 Page Content: A.
+Sample papers of the aptitude tests are available on the IBA website, please click here to access the link. The questions asked in the aptitude tests are MCQ pattern in general and are based on following subjects:
+For Undergraduate Programs
+English
+Mathematics
+For Graduate Programs
+English
+Mathematics
+Essays / Specialized Discipline Test.
+Back to top    
+Degree Program
+Q.
+Q. Does the IBA offer undergraduate programs?
+A.
+Yes, IBA FCS offers the following undergraduate degree programs:
+
+Original Question: Write an email to Sir Sajjad Haider that I need extension for Project report submission.
+Document 1 Page Content: Dr. Sajjad Haider is a member of IBA Computer Science Faculty.
+Dr. Sajjad Haider is a Professor
+Dr. Sajjad Haider works in the Department of Computer Science
+Dr. Sajjad Haider specializes in Information Technology
+Dr. Sajjad Haider is currently Available
+You can reach Dr. Sajjad Haider at sahaider@iba.edu.pk
+Document 2 Page Content: Dr. Sajjad Haider is a member of IBA Computer Science Faculty.
+Dr. Sajjad Haider is a Professor
+Dr. Sajjad Haider works in the Department of Computer Science
+Dr. Sajjad Haider specializes in Information Technology
+Dr. Sajjad Haider is currently Available
+You can reach Dr. Sajjad Haider at sahaider@iba.edu.pk
+Document 3 Page Content: Dr. Sajjad Haider is a member of IBA Computer Science Faculty.
+Dr. Sajjad Haider is a Professor
+Dr. Sajjad Haider works in the Department of Computer Science
+Dr. Sajjad Haider specializes in Information Technology
+Dr. Sajjad Haider is currently Available
+You can reach Dr. Sajjad Haider at sahaider@iba.edu.pk
+Document 4 Page Content: Here is the list of Dr. Sajjad Haider's research interest: Information Technology
+Here is the list of Dr. Sajjad Haider's projects: List to come
+https://www.iba.edu.pk/faculty-profile.php?ftype=&id=shahidhussain
+Dr. Shahid Hussain
+For further information regarding Dr. Shahid Hussain kindly refer to the following webpage: https://www.iba.edu.pk/faculty-profile.php?ftype=&id=shahidhussain
+Dr. Shahid Hussain is a member of IBA Computer Science Faculty.
+Document 5 Page Content: Here is the list of Dr. Sajjad Haider's research interest: Information Technology
+Here is the list of Dr. Sajjad Haider's projects: List to come
+https://www.iba.edu.pk/faculty-profile.php?ftype=&id=shahidhussain
+Dr. Shahid Hussain
+For further information regarding Dr. Shahid Hussain kindly refer to the following webpage: https://www.iba.edu.pk/faculty-profile.php?ftype=&id=shahidhussain
+Dr. Shahid Hussain is a member of IBA Computer Science Faculty.
+

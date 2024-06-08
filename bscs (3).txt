@@ -1,0 +1,139 @@
+About: The Department of Computer Science is one of the two departments at the School of Mathematics and Computer Science (SMCS) at the Institute of Business Administration (IBA) Karachi. The department offers bachelor, master and doctoral degree programs in Computer Science. The department has recently launched a long-awaited master's program in Data Science.
+
+The full-time faculty members of the department teach a variety of courses over a wide range of the entire computer science spectrum. Some of the areas of specialization of full-time faculty members are in theory, machine learning/AI, quantum computation, computer vision, text analytics, robotics, computer architecture, and human-computer interaction.
+
+Some of the many strengths of the department include its high faculty-to-student ratio, the state-of-the-art facilities, the renowned visiting faculty from the industry to teach the industry-specific courses, the strong focus on undergraduate education, and research. The faculty emphasizes interdisciplinary and encourages students to work with them as well as the faculty of other departments and schools.
+
+Graduates from the department can join computing industry, multinational organizations, startups, consulting companies, government service, and nonprofit organizations. The tech industry in Pakistan is quick to offer jobs and internships to the students of the program and often offer them better opportunities for personal and professional growth. Many of our students get enrolled in the graduate programs of the leading universities around the world as well. Moreover, the alumni network of our department is very strong, and they provide continuous support to our existing student body in terms of guidance and mentoring.
+
+Eligibility Criteria:
+Aptitude Test & Interviews
+The aim of the Aptitude Test is to evaluate candidates for their quantitative and analytical capabilities, logical reasoning, communication skills, reading comprehension, lexical resource, grammatical range, and aptitude for the program.
+
+The interviews are designed to bring out the qualities needed not only to succeed in the chosen program of study but also the potential of the students to contribute positively to the society when they graduate.
+
+
+The following are exempted from appearing in the IBA Aptitude Test:
+BSCS program - SAT I
+
+A score of 670 (out of 800) in Mathematics
+A score of 600 (out of 800) in Evidence-Based Reading and Writing
+Scores of Essay are not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+
+ BSCS program - ACT
+
+A Composite Score of 28 (out of 36)
+Score of English / Writing is not required for the purposes of admission, however may preferably be submitted for placement in English courses subsequent to admission
+
+Applicants to the BSCS Program must have completed their:
+Higher Secondary School Certificate (Pre-Engineering) with a minimum of 60% marks
+
+OR
+
+Higher Secondary School Certificate (General Group with Mathematics) with a minimum of 60% marks
+
+A' Levels with a minimum of 1 'B' and 2 'C's in three principal subjects (including Mathematics) such that there should be no grade less than a 'C' across the three principal subjects. No credit is applicable for any subsidiary, general, or advanced supplementary paper
+
+OR
+
+American / Canadian High School Diploma with a minimum of 80% or an International Baccalaureate with at least 24 points out of 45. All other degree holders must provide an equivalency certificate from IBCC.
+
+For further details visit https://admissions.iba.edu.pk/AdmissionPolicy.php
+
+Freshman
+
+Semester 1:
+
+Introduction to Computing is a first-semester course with 3 credit hours, and its prerequisite is nothing.
+Introduction to Programming is a first-semester course with 4 credit hours, and its prerequisite is nothing.
+Calculus-I is a first-semester course with 3 credit hours, and its prerequisite is nothing.
+English Grammar & Composition is a first-semester course with 3 credit hours, and its prerequisite is nothing.
+Pakistan History or Socioeconomic Philosophy of Islam is a first-semester course with 3 credit hours, and its prerequisite is nothing.
+Semester 2:
+
+Object-Oriented Programming Techniques is a second-semester course with 4 credit hours, and its prerequisite is Introduction to Programming (CSE141).
+Speech Communication is a second-semester course with 3 credit hours, and its prerequisite is English Grammar & Composition (SSC103).
+Introduction to Statistics is a second-semester course with 3 credit hours, and its prerequisite is nothing.
+Discrete Mathematics is a second-semester course with 3 credit hours, and its prerequisite is Calculus-I (MTS101).
+Calculus-II is a second-semester course with 3 credit hours, and its prerequisite is Calculus-I (MTS101).
+Physics is a second-semester course with 3 credit hours, and its prerequisite is nothing.
+Sophomore
+
+Semester 3:
+
+Digital Logic Design is a third-semester course with 4 credit hours, and its prerequisites are Introduction to Computing (CSE101) and Discrete Mathematics (MTS211).
+Data Structures is a third-semester course with 4 credit hours, and its prerequisites are Object-Oriented Programming Techniques (CSE142) and Discrete Mathematics (MTS211).
+Linear Algebra is a third-semester course with 3 credit hours, and its prerequisite is Calculus-I (MTS101).
+Numerical Analysis is a third-semester course with 3 credit hours, and its prerequisite is Calculus-II (MTS232).
+General Elective-I is a third-semester course with 3 credit hours, and its prerequisite is nothing.
+Semester 4:
+
+Introduction to Artificial Intelligence is a fourth-semester course with 3 credit hours, and its prerequisite is Data Structures (CSE247).
+Computer Communication & Networking is a fourth-semester course with 4 credit hours, and its prerequisites are Introduction to Computing (CSE101) and Object-Oriented Programming Techniques (CSE142).
+Theory of Automata is a fourth-semester course with 3 credit hours, and its prerequisites are Introduction to Programming (CSE141) and Discrete Mathematics (MTS211).
+Computer Architecture & Assembly Language is a fourth-semester course with 4 credit hours, and its prerequisites are Digital Logic and Design (CSE241) and Data Structures (CSE247).
+Socioeconomic Philosophy of Islam or Pakistan History is a fourth-semester course with 3 credit hours, and its prerequisite is nothing.
+Junior
+
+Semester 5:
+
+Software Engineering is a fifth-semester course with 3 credit hours, and its prerequisite is Data Structures (CSE247).
+Operating Systems is a fifth-semester course with 3 credit hours, and its prerequisite is Computer Architecture & Assembly Language (CSE345).
+Database Systems is a fifth-semester course with 4 credit hours, and its prerequisite is Data Structures (CSE247).
+Business Communication is a fifth-semester course with 3 credit hours, and its prerequisite is Speech Communication (HUM201).
+CS Elective-I is a fifth-semester course with 3 credit hours, and its prerequisite is nothing.
+Semester 6:
+
+Design & Analysis of Algorithm is a sixth-semester course with 3 credit hours, and its prerequisite is Data Structures (CSE247).
+Parallel & Distributed Computing is a sixth-semester course with 4 credit hours, and its prerequisite is Operating Systems (CSE331).
+CS Elective-II is a sixth-semester course with 3 credit hours, and its prerequisite is nothing.
+CS Elective-III is a sixth-semester course with 3 credit hours, and its prerequisite is nothing.
+General Elective-II is a sixth-semester course with 3 credit hours, and its prerequisite is nothing.
+Personal Effectiveness is a sixth-semester course, and no credit hours are specified.
+Senior
+
+Semester 7:
+
+Human-Computer Interaction is a seventh-semester course with 3 credit hours, and its prerequisite is Software Engineering (CSE312).
+Final Year Project - CS is a seventh-semester course with 0 credit hours, and its prerequisites are Software Engineering (CSE312) and Database Systems (CSE341).
+CS Elective-IV is a seventh-semester course with 3 credit hours, and its prerequisite is nothing.
+CS Elective-V is a seventh-semester course with 3 credit hours, and its prerequisite is nothing.
+General Elective-III is a seventh-semester course with 3 credit hours, and its prerequisite is nothing.
+Semester 8:
+
+Final Year Project is an eighth-semester course with 6 credit hours, and its prerequisite is Final Year Project - CS (CSE493).
+Information Security and Ethics is an eighth-semester course with 3 credit hours, and its prerequisite is Business Communication (MGT211).
+CS Elective-VI is an eighth-semester course with 3 credit hours, and its prerequisite is nothing.
+CS Elective-VII is an eighth-semester course with 3 credit hours, and its prerequisite is nothing.
+General Elective-IV is an eighth-semester course with 3 credit hours, and its prerequisite is nothing.	
+Total	18		
+The Department of Computer Science at IBA Karachi embarked upon the implementation of Outcome-Based Education framework in its 4-year undergraduate CS degree program in Fall-2022. This exercise led to the adoption of following Program Educational Objectives and Program Learning Outcomes in Fall-2023.
+
+Program Educational Objectives (PEO)
+PEO 1 
+
+Graduates will demonstrate proficiency in fundamental principles of computer science and cutting-edge computing technologies enabling them to excel as computing specialists.
+
+PEO 2 
+
+Graduates will possess strong communication and teamwork skills, enabling them to collaborate effectively with interdisciplinary teams, convey clearly the computing point-of-view in a project, and work efficiently in diverse professional environments. 
+
+PEO 3 
+
+Graduates will be knowledgeable about ethical, social and legal issues related to computing and be able to make informed decisions about the impact of their work on society and the environment. 
+
+PEO 4
+
+Graduates will be continually engaged in professional development to be aware of the impact of the IT industry in their chosen field of occupation.
+
+Program Learning Outcomes (PLOs)
+1.	Academic Education	To prepare graduates as computing professionals
+2.	Knowledge for Solving Computing Problems	Apply knowledge of computing fundamentals, knowledge of a computing specialization, and mathematics, science, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements
+3.	Problem Analysis	Identify, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines
+4.	Design/ Development of Solutions	Design and evaluate solutions for complex computing problems, and design and evaluate systems, components, or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations
+5.	Modern Tool Usage	Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations
+6.	Individual and Team Work	Function effectively as an individual and as a member or leader in diverse teams and in multi-disciplinary settings
+7.	Communication	Communicate effectively with the computing community and with society at large about complex computing activities by being able to comprehend and write effective reports, design documentation, make effective presentations, and give and understand clear instructions
+8.	Computing Professionalism and Society	Understand and assess societal, health, safety, legal, and cultural issues within local and global contexts, and the consequential responsibilities relevant to professional computing practice
+9.	Ethics	Understand and commit to professional ethics, responsibilities, and norms of professional computing practice
+10.	Life-long Learning	Recognize the need, and have the ability, to engage in independent learning for continual development as a computing professional
